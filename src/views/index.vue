@@ -1,6 +1,7 @@
 <template>
   <div>
     <!-- 嵌套到home组件中 -->
+    index
   </div>
 </template>
 
