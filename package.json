@@ -24,6 +24,7 @@
     "element-ui": "^2.15.6",
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^6.2.2",
+    "mockjs": "^1.1.0",
     "python": "0.0.4",
     "sass": "^1.26.5",
     "sass-loader": "^8.0.2",
